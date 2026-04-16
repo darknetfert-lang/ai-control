@@ -1,11 +1,5 @@
 # ai-control
 
-![badges...]
-
-<p align="center">
-  <img src="...typing svg..." />
-</p>
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/darknetfert-lang/ai-control)
 ![GitHub stars](https://img.shields.io/github/stars/darknetfert-lang/ai-control)
 ![GitHub last commit](https://img.shields.io/github/last-commit/darknetfert-lang/ai-control)
