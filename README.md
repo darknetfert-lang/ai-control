@@ -47,3 +47,7 @@ Automation, AI and Android experiments by Delt4_Haze
 
 ## 👤 Author
 Delt4_Haze
+
+---
+
+⭐ If you like this project, give it a star!
