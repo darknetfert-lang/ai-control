@@ -1,8 +1,10 @@
 # ai-control
 
-![GitHub repo size](https://img.shields.io/github/repo-size/darknetfert-lang/ai-control)
-![GitHub stars](https://img.shields.io/github/stars/darknetfert-lang/ai-control)
-![GitHub last commit](https://img.shields.io/github/last-commit/darknetfert-lang/ai-control)
+<p>
+  <img src="https://img.shields.io/github/repo-size/darknetfert-lang/ai-control"/>
+  <img src="https://img.shields.io/github/stars/darknetfert-lang/ai-control"/>
+  <img src="https://img.shields.io/github/last-commit/darknetfert-lang/ai-control"/>
+</p>
 
 <p align="center">
   <img
