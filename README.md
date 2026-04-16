@@ -4,6 +4,10 @@
 ![GitHub stars](https://img.shields.io/github/stars/darknetfert-lang/ai-control)
 ![GitHub last commit](https://img.shields.io/github/last-commit/darknetfert-lang/ai-control)
 
+# ai-control
+
+![badges...]
+
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Automation;Android+Experiments;Building+Smart+Systems&pause=1000&width=500" />
