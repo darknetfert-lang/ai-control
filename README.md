@@ -20,6 +20,11 @@ Automation, AI and Android experiments by Delt4_Haze
 
 </div>
 
+## 🚀 Features
+- ⚙️ Smart automation scripts
+- 🤖 AI-powered tools
+- 📱 Android system control
+
 ---
 
 🚀 Building smart systems  
